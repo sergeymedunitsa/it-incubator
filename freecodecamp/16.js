@@ -22,8 +22,6 @@
 // Yes если val меньше или равно 50 и больше или равно 25. В противном случае будет 
 //возвращена строка No.
 
-
-
 function testLogicalAnd(val) {
   // Only change code below this line
 
