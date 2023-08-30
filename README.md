@@ -1,3 +1,3 @@
 # it-incubator
 
-My studies in IT-INCUBATOR
+My preparation for the IT INCUBATOR
